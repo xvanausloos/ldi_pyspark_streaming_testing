@@ -1,6 +1,9 @@
-# LDI PySpark streaming testing demo
+# LDI PySpark Kafka Unit Test demo
 
-Resource: https://github.com/bartosz25/data-ai-summit-2024
+Created on 31.12.24 for LDI 
 
-Created on 15/11/24
+Use UV for managing project dependencies
+
+Install uv: `pip install uv`
+Create venv: `uv venv`
 
