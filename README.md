@@ -8,6 +8,4 @@ Init UV project:
 Create venv: `uv venv --python 3.9`
 Activate venv: `source .venv/bin/activate`
 
-Install packages: `uv pip install pyspark
-`
-
+Install packages: `uv pip install pyspark`
