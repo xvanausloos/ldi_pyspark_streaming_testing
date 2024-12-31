@@ -1,10 +1,13 @@
-# LDI PySpark Kafka Unit Test demo
+LDI UV project demo 
 
-Created on 31.12.24 for LDI 
+Created on 31/12/24
 
-Use UV for managing project dependencies
+Init UV project:
+`uv init <projectName>`
 
-Install uv: `pip install uv`
-Create venv: `uv venv`
+Create venv: `uv venv --python 3.9`
+Activate venv: `source .venv/bin/activate`
 
+Install packages: `uv pip install pyspark
+`
 
