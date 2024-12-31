@@ -1,3 +1,4 @@
 .idea/
 .gitignore
 infrastructure/kafka/data
+tests/__pycache__
