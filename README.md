@@ -7,3 +7,4 @@ Use UV for managing project dependencies
 Install uv: `pip install uv`
 Create venv: `uv venv`
 
+
